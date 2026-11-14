@@ -1,6 +1,6 @@
 --// Main.lua - FROGGY HUB BLOX FRUITS PVP (V1.0)
 local GITHUB_USER = "cristhiandalmauquintana-ctrl"
-local GITHUB_REPO = "FroggyBloxPvP" -- 👈 CAMBIA ESTO SI USAS OTRO NOMBRE DE REPO
+local GITHUB_REPO = "FroggyBlox" -- 👈 CAMBIA ESTO SI USAS OTRO NOMBRE DE REPO
 local BRANCH = "main"
 local ROOT = "https://raw.githubusercontent.com/"..GITHUB_USER.."/"..GITHUB_REPO.."/"..BRANCH.."/"
 
